@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "events/inaugural.html",
+    "href": "events/inaugural.html",
+    "title": "First meeting of the Guernsey R Users Group",
+    "section": "",
+    "text": "In this first meeting, we will be covering the aims of the Guernsey R Users Group. And, as this probably won’t take the full time, we’ll round off with a quick overview of some of R’s object systems, focusing on S3, S4 and the in-development R7."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,12 +26,5 @@
     "title": "Events",
     "section": "",
     "text": "Inaugural Meeting"
-  },
-  {
-    "objectID": "events/inaugural.html",
-    "href": "events/inaugural.html",
-    "title": "First meeting of the Guernsey R Users Group",
-    "section": "",
-    "text": "To be arranged."
   }
 ]

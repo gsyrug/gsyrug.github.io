@@ -2,4 +2,7 @@
 title: "First meeting of the Guernsey R Users Group"
 ---
 
-To be arranged.
+- Time and Location to be arranged
+
+In this first meeting, we will be covering the aims of the Guernsey R Users Group.
+And, as this probably won't take the full time, we'll round off with a quick overview of some of R's object systems, focusing on S3, S4 and the in-development R7.
