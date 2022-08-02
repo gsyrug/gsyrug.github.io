@@ -1,0 +1,8 @@
+---
+title: "Events"
+---
+
+
+# Upcoming Events
+
+- [Inaugural Meeting](events/inaugural.qmd)

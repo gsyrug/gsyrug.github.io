@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Guernsey R Users Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: events.qmd
+        text: Events
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
