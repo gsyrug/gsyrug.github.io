@@ -14,3 +14,15 @@ As this probably won't take the full time, we'll round off with a quick overview
 If you want to join us, sign up on at the Eventbrite page.
 
 Hope to see you there.
+
+---
+
+Slides for the first presentation:
+
+<iframe width=100% height=50% src="/resources/gsyrug1_intro_to_gsyrug.html">
+</iframe>
+
+And for the second:
+
+<iframe width=100% height=50% src="/resources/grug_oo_presentation.html">
+</iframe>
