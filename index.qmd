@@ -4,3 +4,8 @@ title: "Guernsey R Users Group"
 
 This is the website of the Guernsey R Users Group.
 We'll post talk materials and details of events here as they are organised.
+
+You can see our upcoming and past events on the [events](events.qmd) page.
+
+If you would like to join us, would like to present, or would like to ask any questions, please do email [guernseyrusersgroup@gmail.com](mailto:guernseyrusersgroup@gmail.com).
+

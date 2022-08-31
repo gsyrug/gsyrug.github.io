@@ -5,4 +5,10 @@ title: "Events"
 
 # Upcoming Events
 
-- [Inaugural Meeting](events/inaugural.qmd)
+
+# Past Events
+
+Past Events are listed here.
+Where possible slides and materials will be included on the page.
+
+- 24 August 2022 [Inaugural Meeting](events/inaugural.qmd)
