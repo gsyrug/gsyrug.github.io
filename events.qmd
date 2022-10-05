@@ -5,6 +5,7 @@ title: "Events"
 
 # Upcoming Events
 
+- (Date TBC) [Debugging](events/debugging.qmd)
 
 # Past Events
 
