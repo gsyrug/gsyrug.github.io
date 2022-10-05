@@ -7,5 +7,18 @@ We'll post talk materials and details of events here as they are organised.
 
 You can see our upcoming and past events on the [events](events.qmd) page.
 
-If you would like to join us, would like to present, or would like to ask any questions, please do email [guernseyrusersgroup@gmail.com](mailto:guernseyrusersgroup@gmail.com).
+If you would like to join us, would like to present, or would like to ask any questions, please do email [guernseyrusersgroup@gmail.com](mailto:guernseyrusersgroup@gmail.com) or fill in the forms below.
 
+::: {.panel-tabset}
+
+## Help us tailor Guernsey RUG to suit you
+
+Give us feedback and help us put on events that suit you:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6Pqt_eNma1budWm0T6nYzMuOqzpCXMaPS7mNqN66UpPcA4g/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Want to present?
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScT3m9NxyzQv9aDzrYzByA7bsLfsHwBvMho-8dBBpDtg-o0cg/viewform?embedded=true" width="640" height="1380" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+:::
