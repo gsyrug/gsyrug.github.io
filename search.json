@@ -7,6 +7,13 @@
     "text": "In this first meeting, we will be meeting other R users on the island and covering the aims of the Guernsey R Users Group.\nAs this probably won’t take the full time, we’ll round off with a quick overview of some of R’s object systems, focusing on S3, S4 and the in-development R7.\nIf you want to join us, sign up on at the Eventbrite page.\nHope to see you there.\n\nSlides for the first presentation:\n\n\nAnd for the second:"
   },
   {
+    "objectID": "events/debugging.html",
+    "href": "events/debugging.html",
+    "title": "Dealing with Bugs",
+    "section": "",
+    "text": "Write enough code and bugs are inevitable. In this session we’ll cover:\n\nUsing R and RStudio’s debugging features to track bugs and errors in your and other people’s code\nDefensive strategies to employ in your own code to catch errors as or before they occur\nWays to rethink errors by adjusting the type of things your functions return\n\nAny slides used in the presentation will be availble here shortly before the session."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "Guernsey R Users Group",
     "section": "",
-    "text": "You can see our upcoming and past events on the events page.\nIf you would like to join us, would like to present, or would like to ask any questions, please do email guernseyrusersgroup@gmail.com."
+    "text": "You can see our upcoming and past events on the events page.\nIf you would like to join us, would like to present, or would like to ask any questions, please do email guernseyrusersgroup@gmail.com or fill in the forms below.\n\nHelp us tailor Guernsey RUG to suit youWant to present?\n\n\nGive us feedback and help us put on events that suit you:\n\nLoading…\n\n\n\n\nLoading…"
   },
   {
     "objectID": "events.html",
