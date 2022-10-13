@@ -1,0 +1,13 @@
+---
+title: "teachR Book Club"
+---
+
+Our own Adam Rawles has written an introductory book on R available for free here: [https://teacher.arawles.co.uk/](https://teacher.arawles.co.uk/)
+
+We're going to run this as a series of informal discussion sessions. 
+Each session will be advertised in advance, and the notice will include what chapters we're going to cover.
+You should ideally read the chapters before attending the meeting as we will talk around the chapter, maybe cover a few exercises and discuss putting the content into practice.
+
+These sessions are likely to be run remotely via Zoom or Teams or similar.
+
+More information coming soon.
