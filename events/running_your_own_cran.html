@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guernsey R Users Group - Dealing with Bugs</title>
+<title>Guernsey R Users Group - Running your own CRAN</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -92,14 +92,21 @@ ul.task-list{list-style: none;}
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#speaker" id="toc-speaker" class="nav-link" data-scroll-target="#speaker">Speaker</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Dealing with Bugs</h1>
+<h1 class="title">Running your own CRAN</h1>
 </div>
 
 
@@ -114,20 +121,21 @@ ul.task-list{list-style: none;}
 </header>
 
 <ul>
-<li>Date: TBC, sometime in Late October/Early November probably</li>
-<li>Presenter: Michael Jones</li>
-<li>Time: 1230 - 1330</li>
+<li>Date: TBC, sometime early January 2023</li>
+<li>Presenter: Adam Rawles</li>
+<li>Time: TBC</li>
 <li>Location: TBC</li>
 </ul>
-<p>Write enough code and bugs are inevitable. In this session we’ll cover:</p>
-<ul>
-<li>Using R and RStudio’s debugging features to track bugs and errors in your and other people’s code</li>
-<li>Defensive strategies to employ in your own code to catch errors as or before they occur</li>
-<li>Ways to rethink errors by adjusting the type of things your functions return</li>
-</ul>
-<p>Any slides used in the presentation will be available here shortly before the session.</p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Ever looked at the CRAN package repository and thought ‘Wow, I wish I could do something like that but worse’? Well look no further! In this talk I’ll outline how I built a CRAN-like R package repository using a continuous integration platform and the {plumber} package. I’ll discuss the difference between source and binary packages in how they’re stored and handled by a package repository, how I integrated the {pkgdown} package to integrate documentation with the repository and all the mistakes I made along the way.</p>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<p>I’m Adam, a Data Scientist, and I’ve used R for around 6 years now. I’ve used R for everything from modelling and machine learning to backend APIs and user interfaces and I’ve written two books on the language. More recently I’ve also dabbled in productionising and containerising R code for larger scale applications.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
