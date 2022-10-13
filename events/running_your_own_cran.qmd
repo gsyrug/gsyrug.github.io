@@ -1,0 +1,19 @@
+---
+title: "Running your own CRAN"
+---
+
+- Date: TBC, sometime early January 2023
+- Presenter: Adam Rawles
+- Time: TBC
+- Location: TBC
+
+
+## Abstract
+
+Ever looked at the CRAN package repository and thought 'Wow, I wish I could do something like that but worse'? Well look no further! In this talk I'll outline how I built a CRAN-like R package repository using a continuous integration platform and the {plumber} package. I'll discuss the difference between source and binary packages in how they're stored and handled by a package repository, how I integrated the {pkgdown} package to integrate documentation with the repository and all the mistakes I made along the way.
+
+
+## Speaker
+
+I'm Adam, a Data Scientist, and I've used R for around 6 years now. I've used R for everything from modelling and machine learning to backend APIs and user interfaces and I've written two books on the language. More recently I've also dabbled in productionising and containerising R code for larger scale applications.
+
