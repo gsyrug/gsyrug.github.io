@@ -5,7 +5,7 @@ title: "Events"
 
 # Upcoming Events
 
-- (Date TBC) [Debugging](events/debugging.qmd)
+- 29 November 2022 [Debugging](events/debugging.qmd)
 - (Date TBC) [Running your own CRAN](events/running_your_own_cran.qmd)
 - (Dates TBC) [TeacheR Book Club](events/teacher_book_club.qmd)
 
