@@ -2,10 +2,12 @@
 title: "Dealing with Bugs"
 ---
 
-- Date: TBC, sometime in Late October/Early November probably
+- Date: Tuesday 29 November 
 - Presenter: Michael Jones
 - Time: 1230 - 1330
-- Location: TBC
+- Location: The Shed at the Digital Greenhouse
+
+[Sign up at Eventbrite](https://www.eventbrite.com/e/debugging-in-r-tickets-468735720157)
 
 Write enough code and bugs are inevitable. 
 In this session we'll cover:
