@@ -16,4 +16,7 @@ In this session we'll cover:
 - Defensive strategies to employ in your own code to catch errors as or before they occur
 - Ways to rethink errors by adjusting the type of things your functions return
 
-Any slides used in the presentation will be available here shortly before the session.
+Slides for the presentation:
+
+<iframe width=100% height=50% src="/resources/debugging.html">
+</iframe>

@@ -5,7 +5,6 @@ title: "Events"
 
 # Upcoming Events
 
-- 29 November 2022 [Debugging](events/debugging.qmd)
 - (Date TBC) [Running your own CRAN](events/running_your_own_cran.qmd)
 - (Dates TBC) [TeacheR Book Club](events/teacher_book_club.qmd)
 
@@ -14,4 +13,5 @@ title: "Events"
 Past Events are listed here.
 Where possible slides and materials will be included on the page.
 
+- 29 November 2022 [Debugging](events/debugging.qmd)
 - 24 August 2022 [Inaugural Meeting](events/inaugural.qmd)
