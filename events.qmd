@@ -5,7 +5,7 @@ title: "Events"
 
 # Upcoming Events
 
-- (Date TBC) [Running your own CRAN](events/running_your_own_cran.qmd)
+- 22 March 2023 [Running your own CRAN](events/running_your_own_cran.qmd)
 - (Dates TBC) [TeacheR Book Club](events/teacher_book_club.qmd)
 
 # Past Events

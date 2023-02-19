@@ -6,6 +6,7 @@ title: "Running your own CRAN"
 - Presenter: Adam Rawles
 - Time: 1230 - 1330
 - Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/running-your-own-cran-tickets-556018866397)
 
 
 ## Abstract
