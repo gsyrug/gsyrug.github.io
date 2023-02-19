@@ -2,10 +2,10 @@
 title: "Running your own CRAN"
 ---
 
-- Date: TBC, sometime early January 2023
+- Date: 22 March
 - Presenter: Adam Rawles
-- Time: TBC
-- Location: TBC
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
 
 
 ## Abstract
