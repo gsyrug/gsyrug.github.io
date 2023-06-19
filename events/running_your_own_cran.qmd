@@ -22,4 +22,4 @@ I'm Adam, a Data Scientist, and I've used R for around 6 years now. I've used R 
 
 Available here: https://arawles.github.io/gran-presentation/slides
 
-<iframe src="https://arawles.github.io/gran-presentation/slides" title="GRAN presentation">
+<iframe width=100% height="500px" src="https://arawles.github.io/gran-presentation/slides" title="GRAN presentation">
