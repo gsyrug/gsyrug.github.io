@@ -18,3 +18,8 @@ Ever looked at the CRAN package repository and thought 'Wow, I wish I could do s
 
 I'm Adam, a Data Scientist, and I've used R for around 6 years now. I've used R for everything from modelling and machine learning to backend APIs and user interfaces and I've written two books on the language. More recently I've also dabbled in productionising and containerising R code for larger scale applications.
 
+## Slides
+
+Available here: https://arawles.github.io/gran-presentation/slides
+
+<iframe src="https://arawles.github.io/gran-presentation/slides" title="GRAN presentation">
