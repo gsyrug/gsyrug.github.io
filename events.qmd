@@ -5,13 +5,17 @@ title: "Events"
 
 # Upcoming Events
 
-- 22 March 2023 [Running your own CRAN](events/running_your_own_cran.qmd)
 - (Dates TBC) [TeacheR Book Club](events/teacher_book_club.qmd)
+- 30 June 2023 - [Making Good Graphs with ggplot2](events/making_good_graphs.qmd)
+- July 2023 - Making R quick
+- August 2023 - Other Languages to help your R
 
 # Past Events
 
 Past Events are listed here.
 Where possible slides and materials will be included on the page.
 
-- 29 November 2022 [Debugging](events/debugging.qmd)
-- 24 August 2022 [Inaugural Meeting](events/inaugural.qmd)
+
+- 22 March 2023 - [Running your own CRAN](events/running_your_own_cran.qmd)
+- 29 November 2022 - [Debugging](events/debugging.qmd)
+- 24 August 2022 - [Inaugural Meeting](events/inaugural.qmd)

@@ -1,0 +1,15 @@
+---
+title: "Making Good Graphs with ggplot2"
+---
+
+- Date: 30 June
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/making-good-graphics-in-ggplot2-tickets-662583634487)
+
+
+## Abstract
+
+Making your graph is only the first step, you also have to make it nice to look at. ggplot2 and the related ecosystem of packages provide a wealth of tools to help you do just that. We'll cover a few conventions, some colour theory, some views on what makes good visualisations, and some other resources to learn from, practice with, and be inspired by.
+
