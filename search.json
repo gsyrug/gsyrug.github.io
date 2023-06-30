@@ -18,7 +18,7 @@
     "href": "events/making_good_graphs.html#abstract",
     "title": "Making Good Graphs with ggplot2",
     "section": "Abstract",
-    "text": "Abstract\nMaking your graph is only the first step, you also have to make it nice to look at. ggplot2 and the related ecosystem of packages provide a wealth of tools to help you do just that. We’ll cover a few conventions, some colour theory, some views on what makes good visualisations, and some other resources to learn from, practice with, and be inspired by."
+    "text": "Abstract\nMaking your graph is only the first step, you also have to make it nice to look at. ggplot2 and the related ecosystem of packages provide a wealth of tools to help you do just that. We’ll cover a few conventions, some colour theory, some views on what makes good visualisations, and some other resources to learn from, practice with, and be inspired by.\nSlides for the presentation:"
   },
   {
     "objectID": "events/running_your_own_cran.html",
