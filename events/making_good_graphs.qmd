@@ -15,5 +15,5 @@ Making your graph is only the first step, you also have to make it nice to look 
 
 Slides for the presentation:
 
-<iframe width=100% height=50% src="/resources/ggplot_talk.html">
+<iframe width=100% height="500px" src="/resources/ggplot_talk.html">
 </iframe>
