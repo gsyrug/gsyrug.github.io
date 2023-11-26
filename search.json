@@ -21,6 +21,20 @@
     "text": "Abstract\nMaking your graph is only the first step, you also have to make it nice to look at. ggplot2 and the related ecosystem of packages provide a wealth of tools to help you do just that. We’ll cover a few conventions, some colour theory, some views on what makes good visualisations, and some other resources to learn from, practice with, and be inspired by.\nSlides for the presentation:"
   },
   {
+    "objectID": "events/advent_of_code_2023.html",
+    "href": "events/advent_of_code_2023.html",
+    "title": "Getting Better at R by Solving Puzzles",
+    "section": "",
+    "text": "Date: 12 December 2023\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed, Digital Greenhouse, Guernsey\nSign up on EventBrite"
+  },
+  {
+    "objectID": "events/advent_of_code_2023.html#abstract",
+    "href": "events/advent_of_code_2023.html#abstract",
+    "title": "Getting Better at R by Solving Puzzles",
+    "section": "Abstract",
+    "text": "Abstract\nEach year during December, thousands of people across the world take part in Advent of Code. This is a fantastic series of themed puzzles released each day throughout December up to Christmas. In this session we’ll solve the first few puzzles from 2023’s event together.\nI’m hoping to offer this as a hybrid event with the ability to join via Google Meet. While I hope you will attend in person, everyone who signs up will receive a link to the call so you can attend even if you can’t be there in person.\nIf you want to try the puzzles before the session, please do! In fact, if you want, you can join the private leaderboard to compete on solving these puzzles the quickest. The puzzles are language-agnostic, so you can use whatever language you feel most comfortable in, though in the session we’ll only be using R. Sign up to the leaderboard here using the code: 1114872-105538e6. If you signed up last year, you’ll still be listed here."
+  },
+  {
     "objectID": "events/running_your_own_cran.html",
     "href": "events/running_your_own_cran.html",
     "title": "Running your own CRAN",
@@ -81,6 +95,6 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\n\n(Dates TBC) TeacheR Book Club\nJuly 2023 - Making R quick\nAugust 2023 - Other Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\n\n12 December 2023 - Getting better at R by Solving Puzzles\n\nDates TBC:\n\nTeacheR Book Club\nMaking R quick\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   }
 ]
