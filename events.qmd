@@ -5,7 +5,7 @@ title: "Events"
 
 # Upcoming Events
 
-- 12 December 2023 - Getting better at R by Solving Puzzles
+- 12 December 2023 - [Getting better at R by Solving Puzzles](events/advent_of_code_2023.qmd)
 
 Dates TBC: 
 
