@@ -1,0 +1,26 @@
+---
+title: "Getting Better at R by Solving Puzzles"
+---
+
+- Date: 12 December 2023
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/getting-better-through-solving-puzzles-tickets-767034850887?aff=oddtdtcreator)
+
+
+## Abstract
+
+Each year during December, thousands of people across the world take part in [Advent of Code](https://adventofcode.com/). This is a fantastic series of themed puzzles released each day throughout December up to Christmas. In this session we'll solve the first few puzzles from 2023's event together. 
+
+I'm hoping to offer this as a hybrid event with the ability to join via Google Meet.
+While I hope you will attend in person, everyone who signs up will receive a link to the call so you can attend even if you can't be there in person.
+
+If you want to try the puzzles before the session, please do!
+In fact, if you want, you can join the private leaderboard to compete on solving these puzzles the quickest.
+The puzzles are language-agnostic, so you can use whatever language you feel most comfortable in, though in the session we'll only be using R. 
+Sign up to the leaderboard [here](https://adventofcode.com/2023/leaderboard/private) using the code: `1114872-105538e6`.
+If you signed up last year, you'll still be listed here.
+
+
+
