@@ -5,6 +5,9 @@ title: "Events"
 
 # Upcoming Events
 
+- 3 July 2024 - [Introduction to Git](events/intro_to_git.qmd)
+
+
 Dates TBC: 
 
 - [TeacheR Book Club](events/teacher_book_club.qmd)

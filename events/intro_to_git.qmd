@@ -1,0 +1,23 @@
+---
+title: "Introduction to Git"
+---
+
+- Date: 3 July 2024
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/introduction-to-git-tickets-928727979387?aff=oddtdtcreator)
+
+## Abstract
+
+Whether you're doing a simple data analysis project on your own or writing a large piece of complex software with a team of other people, using a robust version control system will make your life easier. One of the most popular systems is [git](https://git-scm.com/). 
+
+Git can:
+
+- help you track changes in your code over time
+- try out radically different approaches without fear of losing your work
+- collaborate with other people incorporating their work into yours in a managed way
+
+This session will touch on R only slightly, providing instead a broadly language-agnostic introduction to the key features of git. We'll cover the benefits of version controlling your code, the concepts behind git, and how to use it in practice. 
+
+
