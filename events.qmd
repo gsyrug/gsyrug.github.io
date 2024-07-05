@@ -2,11 +2,7 @@
 title: "Events"
 ---
 
-
 # Upcoming Events
-
-- 3 July 2024 - [Introduction to Git](events/intro_to_git.qmd)
-
 
 Dates TBC: 
 
@@ -19,7 +15,7 @@ Dates TBC:
 Past Events are listed here.
 Where possible slides and materials will be included on the page.
 
-
+- 3 July 2024 - [Introduction to Git](events/intro_to_git.qmd)
 - 12 December 2023 - [Getting better at R by Solving Puzzles](events/advent_of_code_2023.qmd)
 - 30 June 2023 - [Making Good Graphs with ggplot2](events/making_good_graphs.qmd)
 - 22 March 2023 - [Running your own CRAN](events/running_your_own_cran.qmd)
