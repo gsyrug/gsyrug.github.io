@@ -14,6 +14,13 @@
     "text": "Abstract\nWhether you’re doing a simple data analysis project on your own or writing a large piece of complex software with a team of other people, using a robust version control system will make your life easier. One of the most popular systems is git.\nGit can:\n\nhelp you track changes in your code over time\ntry out radically different approaches without fear of losing your work\ncollaborate with other people incorporating their work into yours in a managed way\n\nThis session will touch on R only slightly, providing instead a broadly language-agnostic introduction to the key features of git. We’ll cover the benefits of version controlling your code, the concepts behind git, and how to use it in practice."
   },
   {
+    "objectID": "events/intro_to_git.html#slides",
+    "href": "events/intro_to_git.html#slides",
+    "title": "Introduction to Git",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
     "objectID": "events/inaugural.html",
     "href": "events/inaugural.html",
     "title": "First meeting of the Guernsey R Users Group",
@@ -109,6 +116,6 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\n\n3 July 2024 - Introduction to Git\n\nDates TBC:\n\nTeacheR Book Club\nMaking R quick\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\nDates TBC:\n\nTeacheR Book Club\nMaking R quick\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   }
 ]
