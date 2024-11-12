@@ -42,6 +42,27 @@
     "text": "Abstract\nMaking your graph is only the first step, you also have to make it nice to look at. ggplot2 and the related ecosystem of packages provide a wealth of tools to help you do just that. We’ll cover a few conventions, some colour theory, some views on what makes good visualisations, and some other resources to learn from, practice with, and be inspired by.\nSlides for the presentation:"
   },
   {
+    "objectID": "events/going_fastr.html",
+    "href": "events/going_fastr.html",
+    "title": "Going FastR",
+    "section": "",
+    "text": "Date: 22 November 2024\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed, Digital Greenhouse, Guernsey\nSign up on EventBrite"
+  },
+  {
+    "objectID": "events/going_fastr.html#abstract",
+    "href": "events/going_fastr.html#abstract",
+    "title": "Going FastR",
+    "section": "Abstract",
+    "text": "Abstract\nR is not known to be the fastest of languages, but there are several ways to make your code faster. We’ll cover considerations about data storage and structure, efficient programming patterns, and quick third-party libraries. We’ll also discuss when you would want to work on making your code more efficient and why it might not always be the best idea."
+  },
+  {
+    "objectID": "events/going_fastr.html#slides",
+    "href": "events/going_fastr.html#slides",
+    "title": "Going FastR",
+    "section": "Slides",
+    "text": "Slides\nSlides will be published after the event."
+  },
+  {
     "objectID": "events/advent_of_code_2023.html",
     "href": "events/advent_of_code_2023.html",
     "title": "Getting Better at R by Solving Puzzles",
@@ -116,6 +137,6 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\nDates TBC:\n\nTeacheR Book Club\nMaking R quick\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\n\n22 November 2024 - Making R quick\n\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   }
 ]

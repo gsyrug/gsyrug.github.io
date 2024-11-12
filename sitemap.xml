@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gsyrug.github.io/events/intro_to_git.html</loc>
-    <lastmod>2024-07-05T20:24:56.588Z</lastmod>
+    <lastmod>2024-11-12T19:46:07.739Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/inaugural.html</loc>
-    <lastmod>2024-07-05T20:24:56.798Z</lastmod>
+    <lastmod>2024-11-12T19:46:07.936Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/making_good_graphs.html</loc>
-    <lastmod>2024-07-05T20:24:57.001Z</lastmod>
+    <lastmod>2024-11-12T19:46:08.133Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/going_fastr.html</loc>
+    <lastmod>2024-11-12T19:46:08.333Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/advent_of_code_2023.html</loc>
-    <lastmod>2024-07-05T20:24:57.238Z</lastmod>
+    <lastmod>2024-11-12T19:46:08.569Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/running_your_own_cran.html</loc>
-    <lastmod>2024-07-05T20:24:57.434Z</lastmod>
+    <lastmod>2024-11-12T19:46:08.783Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/debugging.html</loc>
-    <lastmod>2024-07-05T20:24:57.631Z</lastmod>
+    <lastmod>2024-11-12T19:46:08.976Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/teacher_book_club.html</loc>
-    <lastmod>2024-07-05T20:24:57.814Z</lastmod>
+    <lastmod>2024-11-12T19:46:09.173Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/about.html</loc>
-    <lastmod>2024-07-05T20:24:57.988Z</lastmod>
+    <lastmod>2024-11-12T19:46:09.356Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/index.html</loc>
-    <lastmod>2024-07-05T20:24:58.188Z</lastmod>
+    <lastmod>2024-11-12T19:46:09.563Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events.html</loc>
-    <lastmod>2024-07-05T20:24:58.388Z</lastmod>
+    <lastmod>2024-11-12T19:46:09.759Z</lastmod>
   </url>
 </urlset>
