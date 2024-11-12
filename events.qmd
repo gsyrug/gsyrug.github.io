@@ -4,10 +4,11 @@ title: "Events"
 
 # Upcoming Events
 
+- 22 November 2024 - [Making R quick](events/going_fastr.qmd)
+
 Dates TBC: 
 
 - [TeacheR Book Club](events/teacher_book_club.qmd)
-- Making R quick
 - Other Languages to help your R
 
 # Past Events
