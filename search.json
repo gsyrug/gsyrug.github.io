@@ -60,7 +60,7 @@
     "href": "events/going_fastr.html#slides",
     "title": "Going FastR",
     "section": "Slides",
-    "text": "Slides\nSlides will be published after the event."
+    "text": "Slides"
   },
   {
     "objectID": "events/advent_of_code_2023.html",
@@ -119,6 +119,27 @@
     "text": "Our own Adam Rawles has written an introductory book on R available for free here: https://teacher.arawles.co.uk/\nWe’re going to run this as a series of informal discussion sessions. Each session will be advertised in advance, and the notice will include what chapters we’re going to cover. You should ideally read the chapters before attending the meeting as we will talk around the chapter, maybe cover a few exercises and discuss putting the content into practice.\nThese sessions are likely to be run remotely via Zoom or Teams or similar.\nMore information coming soon."
   },
   {
+    "objectID": "events/other_languages.html",
+    "href": "events/other_languages.html",
+    "title": "What Other Languages May Teach You About R",
+    "section": "",
+    "text": "Date: 15 January 2025\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed, Digital Greenhouse, Guernsey\nSign up on EventBrite"
+  },
+  {
+    "objectID": "events/other_languages.html#abstract",
+    "href": "events/other_languages.html#abstract",
+    "title": "What Other Languages May Teach You About R",
+    "section": "Abstract",
+    "text": "Abstract\nJust as learning French can help you learn Spanish, learning other programming languages might help you learn R better. In this session we’ll have a brief introduction to three less well-known languages that I believe will enhance your perspective on R.\nThe languages are:\n\nLisp\nHaskell\nAPL\n\nWhile all are welcome, this session is aimed more at people who are comfortable enough with R to start thinking about expanding their knowledge to other languages. That said, we’ll not be going any more than surface level of any of the other languages, so beginners may still get something out of the session."
+  },
+  {
+    "objectID": "events/other_languages.html#slides",
+    "href": "events/other_languages.html#slides",
+    "title": "What Other Languages May Teach You About R",
+    "section": "Slides",
+    "text": "Slides\nWill be published after the event."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -137,6 +158,6 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\n\n22 November 2024 - Making R quick\n\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\n\n15 January 2025 - Other Languages\n\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n22 November 2024 - Making R quick\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   }
 ]
