@@ -4,7 +4,7 @@ title: "Events"
 
 # Upcoming Events
 
-- 22 November 2024 - [Making R quick](events/going_fastr.qmd)
+- 15 January 2025 - [Other Languages](events/other_languages.qmd)
 
 Dates TBC: 
 
@@ -16,6 +16,7 @@ Dates TBC:
 Past Events are listed here.
 Where possible slides and materials will be included on the page.
 
+- 22 November 2024 - [Making R quick](events/going_fastr.qmd)
 - 3 July 2024 - [Introduction to Git](events/intro_to_git.qmd)
 - 12 December 2023 - [Getting better at R by Solving Puzzles](events/advent_of_code_2023.qmd)
 - 30 June 2023 - [Making Good Graphs with ggplot2](events/making_good_graphs.qmd)

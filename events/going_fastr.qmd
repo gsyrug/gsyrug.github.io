@@ -16,4 +16,5 @@ We'll also discuss when you would want to work on making your code more efficien
 
 ## Slides
 
-Slides will be published after the event.
+<iframe width=100% height="500px" src="/resources/going_fastr.html">
+</iframe>

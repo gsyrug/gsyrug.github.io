@@ -1,0 +1,27 @@
+---
+title: "What Other Languages May Teach You About R"
+---
+
+- Date: 15 January 2025
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/what-other-languages-may-teach-you-about-r-tickets-1135612931849)
+
+## Abstract
+
+Just as learning French can help you learn Spanish, learning other programming languages might help you learn R better.
+In this session we'll have a brief introduction to three less well-known languages that I believe will enhance your perspective on R.
+
+The languages are:
+
+- Lisp
+- Haskell
+- APL
+
+While all are welcome, this session is aimed more at people who are comfortable enough with R to start thinking about expanding their knowledge to other languages. 
+That said, we'll not be going any more than surface level of any of the other languages, so beginners may still get something out of the session.
+
+## Slides
+
+Will be published after the event.
