@@ -24,4 +24,5 @@ That said, we'll not be going any more than surface level of any of the other la
 
 ## Slides
 
-Will be published after the event.
+<iframe width=100% height="500px" src="/resources/grug_other_languages.html">
+</iframe>
