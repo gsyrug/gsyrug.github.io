@@ -1,0 +1,22 @@
+---
+title: "Introduction to Targets"
+---
+
+- Date: 26 February 2025
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed, Digital Greenhouse, Guernsey
+- Sign up on [EventBrite](https://www.eventbrite.com/e/reproducible-data-pipelines-with-targets-tickets-1246661842129?aff=oddtdtcreator)
+
+## Abstract
+
+Any data project of reasonable size will have multiple steps, each step will have its own dependencies. 
+Ensuring that all parts are up to date is essential to ensure the success and accuracy of the project.
+
+Targets is an R Package that supports the creation of defined data pipelines, ensuring that intermediate steps are only run if they need to be, and makes it clear what parts depend on what other parts.
+
+This session will provide the motivation for the use of targets, the practical set up of a targets-powered project, and how to make an end-to-end project with targets, from reading and cleaning data, all the way through to final output.
+
+## Slides
+
+Slides will be made available after the session.

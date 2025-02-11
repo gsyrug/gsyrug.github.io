@@ -4,6 +4,7 @@ title: "Events"
 
 # Upcoming Events
 
+- 26 February 2025 - [Introduction to Targets](events/targets.qmd)
 
 Dates TBC: 
 
