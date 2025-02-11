@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gsyrug.github.io/events/intro_to_git.html</loc>
-    <lastmod>2025-01-15T19:01:00.263Z</lastmod>
+    <lastmod>2025-02-11T22:17:06.823Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/inaugural.html</loc>
-    <lastmod>2025-01-15T19:01:00.486Z</lastmod>
+    <lastmod>2025-02-11T22:17:07.023Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/making_good_graphs.html</loc>
-    <lastmod>2025-01-15T19:01:00.696Z</lastmod>
+    <lastmod>2025-02-11T22:17:07.223Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/going_fastr.html</loc>
-    <lastmod>2025-01-15T19:01:00.893Z</lastmod>
+    <lastmod>2025-02-11T22:17:07.427Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/advent_of_code_2023.html</loc>
-    <lastmod>2025-01-15T19:01:01.116Z</lastmod>
+    <lastmod>2025-02-11T22:17:07.660Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/running_your_own_cran.html</loc>
-    <lastmod>2025-01-15T19:01:01.316Z</lastmod>
+    <lastmod>2025-02-11T22:17:07.860Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/debugging.html</loc>
-    <lastmod>2025-01-15T19:01:01.510Z</lastmod>
+    <lastmod>2025-02-11T22:17:08.047Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/targets.html</loc>
+    <lastmod>2025-02-11T22:17:08.257Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/teacher_book_club.html</loc>
-    <lastmod>2025-01-15T19:01:01.693Z</lastmod>
+    <lastmod>2025-02-11T22:17:08.450Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/other_languages.html</loc>
-    <lastmod>2025-01-15T19:01:01.890Z</lastmod>
+    <lastmod>2025-02-11T22:17:08.667Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/about.html</loc>
-    <lastmod>2025-01-15T19:01:02.076Z</lastmod>
+    <lastmod>2025-02-11T22:17:08.840Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/index.html</loc>
-    <lastmod>2025-01-15T19:01:02.293Z</lastmod>
+    <lastmod>2025-02-11T22:17:09.037Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events.html</loc>
-    <lastmod>2025-01-15T19:01:02.486Z</lastmod>
+    <lastmod>2025-02-11T22:17:09.240Z</lastmod>
   </url>
 </urlset>

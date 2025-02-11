@@ -112,6 +112,27 @@
     "text": "Date: Tuesday 29 November\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed at the Digital Greenhouse\n\nSign up at Eventbrite\nWrite enough code and bugs are inevitable. In this session we’ll cover:\n\nUsing R and RStudio’s debugging features to track bugs and errors in your and other people’s code\nDefensive strategies to employ in your own code to catch errors as or before they occur\nWays to rethink errors by adjusting the type of things your functions return\n\nSlides for the presentation:"
   },
   {
+    "objectID": "events/targets.html",
+    "href": "events/targets.html",
+    "title": "Introduction to Targets",
+    "section": "",
+    "text": "Date: 26 February 2025\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed, Digital Greenhouse, Guernsey\nSign up on EventBrite"
+  },
+  {
+    "objectID": "events/targets.html#abstract",
+    "href": "events/targets.html#abstract",
+    "title": "Introduction to Targets",
+    "section": "Abstract",
+    "text": "Abstract\nAny data project of reasonable size will have multiple steps, each step will have its own dependencies. Ensuring that all parts are up to date is essential to ensure the success and accuracy of the project.\nTargets is an R Package that supports the creation of defined data pipelines, ensuring that intermediate steps are only run if they need to be, and makes it clear what parts depend on what other parts.\nThis session will provide the motivation for the use of targets, the practical set up of a targets-powered project, and how to make an end-to-end project with targets, from reading and cleaning data, all the way through to final output."
+  },
+  {
+    "objectID": "events/targets.html#slides",
+    "href": "events/targets.html#slides",
+    "title": "Introduction to Targets",
+    "section": "Slides",
+    "text": "Slides\nSlides will be made available after the session."
+  },
+  {
     "objectID": "events/teacher_book_club.html",
     "href": "events/teacher_book_club.html",
     "title": "teachR Book Club",
@@ -158,6 +179,6 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n15 January 2025 - Other Languages\n22 November 2024 - Making R quick\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\n\n26 February 2025 - Introduction to Targets\n\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n15 January 2025 - Other Languages\n22 November 2024 - Making R quick\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   }
 ]
