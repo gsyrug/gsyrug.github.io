@@ -2,6 +2,19 @@
 title: "About"
 ---
 
-The Guernsey R Users Group is in the process of being set up.
+Welcome to the Guernsey R Users Group, a community of R enthusiasts and data science professionals dedicated to exploring the world of R programming and beyond! We host regular presentations, workshops, and discussions on a wide range of topics aimed at expanding our knowledge and improving our skills. Whether you’re a beginner or an experienced coder, there's always something to learn here.
+
+Past sessions have covered a diverse set of topics including:
+
+-  Debugging techniques for better coding practices
+-  Visualizing data with ggplot2
+-  Speeding up your R workflows with the Go Fast-R approach
+-  Diving into Object-Oriented Programming (OOP) in R
+-  Exploring functional programming languages like Haskell, APL, and Lisp
+-  Getting started with version control using Git
+
+Our events take place at the Digital Greenhouse in Guernsey, where like-minded individuals come together to share their passion for programming. We also have an active Discord server where members continue discussions, share resources, and support each other outside of our events.
+
+Join us to grow your skills, connect with fellow R users, and stay at the cutting edge of data science and programming!
 
 Any questions, please email [guernseyrusersgroup@gmail.com](mailto:guernseyrusersgroup@gmail.com).
