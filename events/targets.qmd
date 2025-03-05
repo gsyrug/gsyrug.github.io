@@ -20,5 +20,4 @@ This session will provide the motivation for the use of targets, the practical s
 ## Slides
 
 
-<iframe width=100% height=500px src="/resources/grug_targets.html">
-</iframe>
+<iframe width=100% height="500px" src="/resources/grug_targets.html">
