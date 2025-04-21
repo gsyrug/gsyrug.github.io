@@ -1,0 +1,18 @@
+---
+title: "Introduction to Bayesian Regression modelling with brms"
+---
+
+- Date: 7 May 2025 
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed at the Digital Greenhouse
+
+[Sign up at Eventbrite](https://www.eventbrite.com/e/introduction-to-bayesian-regression-with-brms-tickets-1333186840729?aff=oddtdtcreator)
+
+Bayesian statistics provides an alternative way to view statistical modelling compared with frequentist statistics. Bayesian methods often better enable us to answer the questions we really want to ask. 
+
+In the past it has been hard to carry out work in the Bayesian paradigm but brms brings the power of the stan probabilistic programming language to R using R's familiar and powerful modelling syntax.
+
+Join us for an introductory session showcasing brms and Bayesian methods.
+
+Slides for the presentation will be made available after the event.
