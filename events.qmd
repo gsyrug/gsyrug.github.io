@@ -4,6 +4,7 @@ title: "Events"
 
 # Upcoming Events
 
+- 7 May 2025 - [Introduction to Bayesian Regression Modelling with brms](intro_to_brms.qmd)
 
 Dates TBC: 
 
