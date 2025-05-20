@@ -15,4 +15,7 @@ In the past it has been hard to carry out work in the Bayesian paradigm but brms
 
 Join us for an introductory session showcasing brms and Bayesian methods.
 
-Slides for the presentation will be made available after the event.
+Slides for the event:
+
+<iframe width=100% height="500px" src="/resources/grug_brms.html">
+</iframe>
