@@ -4,7 +4,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Upcoming Events\n\n7 May 2025 - Introduction to Bayesian Regression Modelling with brms\n\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n26 February 2025 - Introduction to Targets\n15 January 2025 - Other Languages\n22 November 2024 - Making R quick\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
+    "text": "Upcoming Events\nDates TBC:\n\nTeacheR Book Club\nOther Languages to help your R\n\n\n\nPast Events\nPast Events are listed here. Where possible slides and materials will be included on the page.\n\n7 May 2025 - Introduction to Bayesian Regression Modelling with brms\n26 February 2025 - Introduction to Targets\n15 January 2025 - Other Languages\n22 November 2024 - Making R quick\n3 July 2024 - Introduction to Git\n12 December 2023 - Getting better at R by Solving Puzzles\n30 June 2023 - Making Good Graphs with ggplot2\n22 March 2023 - Running your own CRAN\n29 November 2022 - Debugging\n24 August 2022 - Inaugural Meeting"
   },
   {
     "objectID": "about.html",
@@ -46,7 +46,7 @@
     "href": "events/intro_to_brms.html",
     "title": "Introduction to Bayesian Regression modelling with brms",
     "section": "",
-    "text": "Date: 7 May 2025\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed at the Digital Greenhouse\n\nSign up at Eventbrite\nBayesian statistics provides an alternative way to view statistical modelling compared with frequentist statistics. Bayesian methods often better enable us to answer the questions we really want to ask.\nIn the past it has been hard to carry out work in the Bayesian paradigm but brms brings the power of the stan probabilistic programming language to R using R’s familiar and powerful modelling syntax.\nJoin us for an introductory session showcasing brms and Bayesian methods.\nSlides for the presentation will be made available after the event."
+    "text": "Date: 7 May 2025\nPresenter: Michael Jones\nTime: 1230 - 1330\nLocation: The Shed at the Digital Greenhouse\n\nSign up at Eventbrite\nBayesian statistics provides an alternative way to view statistical modelling compared with frequentist statistics. Bayesian methods often better enable us to answer the questions we really want to ask.\nIn the past it has been hard to carry out work in the Bayesian paradigm but brms brings the power of the stan probabilistic programming language to R using R’s familiar and powerful modelling syntax.\nJoin us for an introductory session showcasing brms and Bayesian methods.\nSlides for the event:"
   },
   {
     "objectID": "events/inaugural.html",
