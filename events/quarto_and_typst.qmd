@@ -1,0 +1,27 @@
+---
+title: "Making Branded Documents with Quarto and Typst"
+---
+
+- Date: 11 November 2025 
+- Presenter: Michael Jones
+- Time: 1230 - 1330
+- Location: The Shed at the Digital Greenhouse
+
+[Sign up at Eventbrite](https://www.eventbrite.com/e/making-branded-documents-with-quarto-and-typst-tickets-1857031012749?aff=oddtdtcreator)
+
+Doing data work is pointless if you cannot communicate your results, and communicating your results is easier if they are presented well. 
+While sometimes, web-based communication is warranted, there will always be a place for well-designed static PDF reports.
+
+For a long time, the only way to generate RMarkdown report output in PDF was through LaTeX or trying to force pagination into an HTML document using pagedown. 
+RMarkdown's successor, Quarto, brings a sleak new PDF engine called Typst.
+
+This talk will demonstrate the process of setting up Typst templates for R and data driven PDF reports.
+
+We will cover:
+
+- getting started with Quarto
+- what Typst is and what problems it addresses
+- how to style the Typst output to match a style guide or brand book
+- how to share the style as a template to let others in your team write consistently branded reports
+
+Slides will be shared after the event.

@@ -4,6 +4,7 @@ title: "Events"
 
 # Upcoming Events
 
+- 11 November 2025 - [Making Branded Documents With Quarto and Typst](events/quarto_and_typst.qmd)
 
 Dates TBC: 
 
