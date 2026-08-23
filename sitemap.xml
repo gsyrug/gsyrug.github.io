@@ -2,62 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gsyrug.github.io/events.html</loc>
-    <lastmod>2025-10-22T11:36:53.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/about.html</loc>
-    <lastmod>2025-02-17T21:26:38.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/teacher_book_club.html</loc>
-    <lastmod>2022-10-13T17:15:28.627Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/debugging.html</loc>
-    <lastmod>2022-12-03T19:00:44.802Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/running_your_own_cran.html</loc>
-    <lastmod>2023-06-19T21:20:31.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/going_fastr.html</loc>
-    <lastmod>2025-01-05T16:44:34.340Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/making_good_graphs.html</loc>
-    <lastmod>2023-06-30T16:31:31.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/intro_to_git.html</loc>
-    <lastmod>2024-07-05T20:23:40.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/inaugural.html</loc>
-    <lastmod>2022-08-23T21:52:24.636Z</lastmod>
+    <lastmod>2026-08-23T14:48:35.139Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/intro_to_brms.html</loc>
-    <lastmod>2025-05-20T06:18:40.908Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gsyrug.github.io/events/advent_of_code_2023.html</loc>
-    <lastmod>2023-11-26T16:32:27.757Z</lastmod>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/quarto_and_typst.html</loc>
-    <lastmod>2025-10-22T11:42:27.618Z</lastmod>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/just_enough_web.html</loc>
+    <lastmod>2026-08-23T14:50:23.203Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/targets.html</loc>
-    <lastmod>2025-03-05T21:35:02.614Z</lastmod>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/events/other_languages.html</loc>
-    <lastmod>2025-01-15T18:55:08.290Z</lastmod>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/intro_to_git.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
   </url>
   <url>
     <loc>https://gsyrug.github.io/index.html</loc>
-    <lastmod>2022-10-05T21:14:33.036Z</lastmod>
+    <lastmod>2026-08-12T11:47:49.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/about.html</loc>
+    <lastmod>2026-08-12T11:47:49.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/going_fastr.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/debugging.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/making_good_graphs.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/teacher_book_club.html</loc>
+    <lastmod>2026-08-12T11:47:49.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/advent_of_code_2023.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/inaugural.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gsyrug.github.io/events/running_your_own_cran.html</loc>
+    <lastmod>2026-08-12T11:47:49.408Z</lastmod>
   </url>
 </urlset>
